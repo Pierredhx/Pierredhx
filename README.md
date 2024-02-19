@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pierredhx
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on any AI project
+- 💞️ I’m looking to collaborate on any AI projects
 - 📫 How to reach me : pierre.duhoux2004@gmail.com
 
 <!---
